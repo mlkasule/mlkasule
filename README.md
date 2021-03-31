@@ -11,9 +11,7 @@
 ## Find Me around the web!
 - Website at https://mlkasule.com/
 - Other Git-Account: https://github.com/casulemarc/
-- Youtube: <a href="https://www.youtube.com/channel/UC3cQi5gvNeiPiPXTrMhZJMg">YouTube Channel</a>
-- Dev Community: https://dev.to/casulemarc
-- Twitter: https://twitter.com/casulemarc
+- 
 ## Languages:
 - C++, JAVA, JSON/JQUERY, PYTHON, JAVASCRIPT, TYPESCRIPT.
 - HTML5, CSS3, SASS
