@@ -11,7 +11,7 @@
 ## Find Me around the web!
 - Website at https://mlkasule.com/
 - Other Git-Account: https://github.com/casulemarc/
-- 
+
 ## Languages:
 - C++, JAVA, JSON/JQUERY, PYTHON, JAVASCRIPT, TYPESCRIPT.
 - HTML5, CSS3, SASS
